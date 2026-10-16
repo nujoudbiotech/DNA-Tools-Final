@@ -26,3 +26,18 @@ python dna_tool.py
 ---
 Developed by NUJOOD BASHEER | Biotechnology | Bioinformatics
 GitHub: @nujoudbiotech
+
+## 🧪 Example Output
+## 🧪 Example Output
+
+**Input:**
+DNA Sequence: ATGCGTAAACGTTAG
+
+**Output from my tool:**
+Length: 15 bases
+GC Content: 46.7%
+Reverse Complement: CTAACGTTTACGCAT
+mRNA: AUGCGUAAACGUUAG
+Protein: M R K R *
+
+> This is how your DNA data will look after analysis - clean, accurate, ready for research.
