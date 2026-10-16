@@ -28,7 +28,6 @@ Developed by NUJOOD BASHEER | Biotechnology | Bioinformatics
 GitHub: @nujoudbiotech
 
 ## 🧪 Example Output
-## 🧪 Example Output
 
 **Input:**
 DNA Sequence: ATGCGTAAACGTTAG
