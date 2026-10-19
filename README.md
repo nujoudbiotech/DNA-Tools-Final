@@ -11,7 +11,7 @@ Bioinformatics toolkit built from Sudan for Cell & Gene Therapy & Stem Cell Rese
 ### 🔬 NEW: scRNA-seq Stem Cell Discovery
 I discovered Gene24 as a stem cell marker (like OCT4).
 
-![Gene24 Marker](scRNAseq/gene24_map.png)
+![Gene24 Marker](gene24_map.png)
 *Gene24 high (yellow) = Stem Cells, Gene6 low (blue) = Differentiated*
 
 ### 🧪 Result:
